@@ -2,6 +2,9 @@ RENCANA CONTENT RIZKI
 
 - Membuat wireframe
   *company profile
+   ^bootstrap
 - membuat website pribadi
 - Membuat slicing web
+ *figma
 - membuat web design
+- membuat login sistem
